@@ -49,7 +49,7 @@ $X,Y$ are two $m*n$ matrix, while $a,d$ are scalars.
 
 ### Ephemeral Constant
 
-We need some Ephemeral Constant as the params in above function. By calling the function  ```random.randint(1,20)``` , we randomly choose the int from 1 to 20. In the other words, we only use the information in past 20 days. 
+We need some Ephemeral Constant as the params in above function. By calling the function  ```random.randint(1,n)``` , we randomly choose the integrate from 1 to n. In the other words, we only use the information in past n days. 
 
 ## Fitness
 
