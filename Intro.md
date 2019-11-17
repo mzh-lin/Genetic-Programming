@@ -67,4 +67,3 @@ creator.create("FitnessMax",base.Fitness,weights=(1,0))
 ```
 
 Test
-
